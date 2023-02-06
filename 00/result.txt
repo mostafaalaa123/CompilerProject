@@ -1,0 +1,47 @@
+Type: identifier
+Number Of Tokens: 7
+List Of Tokens: 
+0. Counting
+1. x
+2. x
+3. print
+4. x
+5. x
+6. x
+------------------------------------------------------------------------
+Type: keyword
+Number Of Tokens: 1
+List Of Tokens: 
+0. while
+------------------------------------------------------------------------
+Type: delimiter
+Number Of Tokens: 8
+List Of Tokens: 
+0. #
+1. ;
+2. (
+3. )
+4. {
+5. :
+6. ;
+7. }
+------------------------------------------------------------------------
+Type: operator
+Number Of Tokens: 4
+List Of Tokens: 
+0. =
+1. <
+2. =
+3. +
+------------------------------------------------------------------------
+Type: number
+Number Of Tokens: 3
+List Of Tokens: 
+0. 0
+1. 10
+2. 1
+------------------------------------------------------------------------
+Type: unknown
+Number Of Tokens: 0
+List Of Tokens: 
+------------------------------------------------------------------------
